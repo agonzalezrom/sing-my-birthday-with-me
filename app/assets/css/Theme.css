@@ -1,0 +1,17 @@
+html,
+body {
+    background-color: #000a20;
+    color: white;
+    height: 100vh;
+    margin: 0;
+    text-shadow: 0 0 6px white;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.btn-primary {
+    font-size: 22px;
+    padding: 1rem 3rem;
+}
